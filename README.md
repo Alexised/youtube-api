@@ -40,3 +40,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ git clone https://github.com/Alexised/youtube-api
     $ cd youtube-api
     $ npm install
+## env
+    $ to use you must create a youtube api https://developers.google.com/youtube/v3/getting-started
+    $ create .env
+    $ YOUTUBE_API_KEY = YOUR_API_KEY
